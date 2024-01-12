@@ -3,7 +3,7 @@
 </div>  
  <br/>
 
-# <div align="center">I'm Pulkit Gupta, a full-stack freelance developer 👨‍💻 🚀</div>  
+# <div align="center">I'm Juan Hernandez (devJ25 💻), a full-stack freelance developer 👨‍💻 🚀</div>  
   <br/>
 
 - 🔭 I’m currently working on Skills  
