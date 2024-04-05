@@ -97,10 +97,3 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-30&hide_border=true&layout=compact" align="left" />  
 </div>
-<br/>  
-<br/>  
-
-------------
-Credit: [pulkit-30](https://github.com/pulkit-30) 
-
-Last Edited on: 03/08/2021
