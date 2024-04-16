@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="[https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgeekculture%2Fhow-to-upload-and-preview-images-in-react-js-4e22a903f3db&psig=AOvVaw1buGSI_dhikygHQoNDZtpJ&ust=1713379438310000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCC1_mxx4UDFQAAAAAdAAAAABAJ)" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Supun Nanayakkara</h1>
+<h1 align="center">Hi 👋, I'm Juan Hernaández</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
